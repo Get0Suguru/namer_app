@@ -44,7 +44,7 @@ This app is built with Flutter and Dart. The main screen shows a centered text:
 
 | Home Screen |
 |-------------|
-| ![Home](screenshots/home_screenshot.png) |
+| ![Home](screenshots/home_screenshot_2.png) |
 
 ## Dependencies
 
